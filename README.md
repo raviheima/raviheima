@@ -16,7 +16,7 @@ I'm an aspiring **Cyber Security Specialist** and a **Computer Science student**
 - **Programming Languages:** Python, JavaScript, HTML, CSS
 - **Cyber Security Tools:** Wireshark, Nmap, Metasploit
 - **Web Development:** Eleventy, Netlify, Node.js, Git/GitHub
-- **Software:** MPV Player, VS Code, VirtualBox
+- **Fav Software's:** MPV Player, Clementine, VS Code, VirtualBox, Linux
 
 ---
 
