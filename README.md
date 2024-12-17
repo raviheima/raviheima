@@ -11,11 +11,11 @@ I'm a **Cybersecurity student** and aspiring **Cybersecurity Specialist** with a
 
 ## 🔧 **Technologies & Tools**  
 
-- **Programming Languages:** Python, C, C++, JavaScript, HTML, CSS  
+- **Programming Languages:** Python, C++, JavaScript, HTML, CSS  
 - **Cybersecurity Tools:** Wireshark, Nmap, Metasploit, Burp Suite  
 - **Web Development:** Eleventy, Node.js, Netlify, Git/GitHub  
 - **Favorite Software:** MPV Player, Clementine, VS Code, VirtualBox  
-- **Operating Systems:** Kali Linux, BlackArch  
+- **Operating Systems:** Kali Linux, Mint, Puppy
 
 ---
 
