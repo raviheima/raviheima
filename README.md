@@ -2,7 +2,7 @@
 
 # 👋 Hello, I'm Raviheima!
 
-I'm an aspiring **Cyber Security Specialist** and a **Computer Science student** passionate about solving real-world problems with technology. My interests span across a variety of fields, from coding and automation to security and math.
+I'm an aspiring **Cyber Security Specialist** and a **Cyber Security student** passionate about solving real-world problems with technology. My interests span across a variety of fields, from coding and automation to security and math.
 
 - 🌐 I'm the creator of [AmoledBytes](https://amoledbytes.netlify.app)
 - 🔐 I focus on **Cyber Security**, currently honing my skills in **penetration testing** and **vulnerability assessment**
