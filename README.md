@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=raviheima&theme=monokai&type=png)](https://git.io/streak-stats)
 <!--
 **raviheima/raviheima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
