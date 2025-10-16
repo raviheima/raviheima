@@ -1,23 +1,23 @@
 # 💫 About Me
 
-Hey, I'm **Victor** — a developer fascinated by the intersection of **logic and craft**.  
+Hey, I'm **Victor** - a developer fascinated by the intersection of **logic and craft**.  
 
 I'm passionate about:
-- 🔐 **Cybersecurity** — building systems that are secure by design
-- 🎨 **UI/UX** — crafting interfaces that feel intuitive and delightful
-- 🧩 **Algorithms** — solving complex problems with elegant code
+- 🔐 **Cybersecurity** - building systems that are secure by design
+- 🎨 **UI/UX** - crafting interfaces that feel intuitive and delightful
+- 🧩 **Algorithms** - solving complex problems with elegant code
 
 Currently rebuilding my foundation from **scratch to advanced** with *The Odin Project*, mastering **CSS, JavaScript, Python, React**, and the art of human-centered design.
 
-**My philosophy:** Learn by building. Every day I code, every week I ship mini-projects, and I'm working toward a full-stack capstone that blends solid architecture with beautiful UX.
+**My philosophy:** Learn by building. Every day I code, every week I build mini-projects, and I'm working toward a full-stack capstone that blends solid architecture with beautiful UX.
 
 ---
 
 ## 🚀 Featured Projects
 
 🔗 Check out my pinned repositories below for:
-- **CMS Test Build** — Decap CMS implementation on Eleventy blog with Nunjucks templating
-- **Charge Sense** - 
+- **CMS Test Build** - Decap CMS implementation on Eleventy blog with Nunjucks templating
+
 
 *More projects coming as I progress through The Odin Project!*
 
