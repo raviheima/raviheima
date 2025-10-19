@@ -7,9 +7,8 @@ I'm passionate about:
 - 🎨 **UI/UX** - crafting interfaces that feel intuitive and delightful
 - 🧩 **Algorithms** - solving complex problems with elegant code
 
-Currently rebuilding my foundation from **scratch to advanced** with *T O P*, mastering **CSS, JavaScript, Python, React**, and the art of human-centered design.
+Currently rebuilding my foundation from **scratch to advanced** with *T O P*, mastering **CSS, JavaScript, Python, React**, and the art of human centered design.
 
-**My philosophy:** Learn by building. Every day I code, every week I build mini-projects, and I'm working toward a full-stack capstone that blends solid architecture with beautiful UX.
 
 ---
 
