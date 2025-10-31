@@ -1,6 +1,6 @@
 # 💫 About Me
 
-Hey, I'm **Victor** - a developer fascinated by the intersection of **logic and craft**.  
+Hey, I'm **Victor**.  
 
 I'm passionate about:
 - 🔐 **Cybersecurity** - building systems that are secure by design
@@ -15,7 +15,7 @@ Currently rebuilding my foundation from **scratch to advanced** with *T O P*, ma
 ## 🚀 Featured Projects
 
 🔗 Check out my pinned repositories below for:
-- **CMS Test Build** - Decap CMS implementation on Eleventy blog with Nunjucks templating
+- hahahhaaha
 
 
 *More projects coming as I progress through The Odin Project!*
