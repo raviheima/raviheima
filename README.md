@@ -17,7 +17,11 @@
 ## Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
-
+- [FUTM-CYB 322 Web Application Security](https://raviheima.me/cybersecurity/futm-cyb-322-web-application-security/)
+- [What is a Linux Command](https://raviheima.me/tips/what-is-a-linux-command/)
+- [Digital Forensics: Investigating the 2020JimmyWilson.E01 Disk Image](https://raviheima.me/howto/hacking/digital-forensics-investigating-the-2020jimmywilsone01-disk-image/)
+- [How to install Cisco Packet Tracer on Fedora linux](https://raviheima.me/howto/how-to-install-cisco-packet-tracer-on-fedora-linux/)
+- [OverTheWire Bandit Walkthrough Levels 0 – 33](https://raviheima.me/linux/overthewire-bandit-walkthrough-levels-0-33/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
