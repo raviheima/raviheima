@@ -18,10 +18,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [CryFs: The filesystem that made me almost cry.](https://raviheima.me/linux/cryfs-the-filesystem-that-made-me-almost-cry/)
-- [FUTM-CYB 322 Web Application Security](https://raviheima.me/security/futm-cyb-322-web-application-security/)
 - [What is a Linux Command](https://raviheima.me/linux/what-is-a-linux-command/)
 - [Digital Forensics: Investigating the 2020JimmyWilson.E01 Disk Image](https://raviheima.me/hacking/digital-forensics-investigating-the-2020jimmywilsone01-disk-image/)
 - [How to install Cisco Packet Tracer on Fedora linux](https://raviheima.me/linux/how-to-install-cisco-packet-tracer-on-fedora-linux/)
+- [OverTheWire Bandit Walkthrough Levels 0 – 33](https://raviheima.me/hacking/overthewire-bandit-walkthrough-levels-0-33/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
