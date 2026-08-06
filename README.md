@@ -2,7 +2,7 @@
 
 <div align="center">
   
- **Security Researcher • Philomath** 
+ **Hola** 
   
   <div align="center" class="delayed-animation">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=808080&center=true&vCenter=true&width=600&lines=Doubt+is+not+a+pleasant+condition%2C;but+certainty+is+absurd." alt="Typing SVG" />
