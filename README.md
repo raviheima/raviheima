@@ -21,7 +21,7 @@
 - [DVWA Series #0: What It Is and How to Set It Up](https://raviheima.me/security/dvwa-series-0-what-it-is-and-how-to-set-it-up/)
 - [CryFs: The filesystem that made me almost cry.](https://raviheima.me/linux/cryfs-the-filesystem-that-made-me-almost-cry/)
 - [What is a Linux Command](https://raviheima.me/linux/what-is-a-linux-command/)
-- [Digital Forensics: Investigating the 2020JimmyWilson.E01 Disk Image](https://raviheima.me/hacking/digital-forensics-investigating-the-2020jimmywilsone01-disk-image/)
+- [DFIR: Investigating the 2020JimmyWilson.E01 Disk Image](https://raviheima.me/hacking/digital-forensics-investigating-the-2020jimmywilsone01-disk-image/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
